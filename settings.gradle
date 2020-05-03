@@ -1,0 +1,2 @@
+rootProject.name='Project_ppkd'
+include ':app'
